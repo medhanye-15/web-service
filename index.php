@@ -2,7 +2,7 @@
 <head>
 <title>Bond Web Service Demo</title>
 <style>
-body {font-family:georgia;}
+gitbody {font-family:georgia;}
     .film{
     border:1px solid #E77DC2;
     border-radius: 5px;
