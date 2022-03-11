@@ -18,7 +18,7 @@
                 "Title":"Blood Diamond",
                 "Year":2006,
                 "Director":"Edward Zwick",
-                "Producers":"Marshall Herskovitz, Grham King,                     Paula Weinstein, Alexander Breault-Boucher",
+                "Producers":"Marshall Herskovitz, Grham King, Paula Weinstein, Alexander Breault-Boucher",
                 "Writers":"Charles Leavitt",
                 "Composer": "James Newton Howard",
                 "Budget":"$100,000,000",
