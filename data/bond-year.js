@@ -11,7 +11,7 @@
                 "Composer": "James Horner",
                 "Budget":"$237,000,000",
                 "BoxOffice":"$2.847 Billion(United States)",
-                "Image":"a-view-to-a-kill.jpg"
+                "Image":""
               },
               {
                 "Film":2,
