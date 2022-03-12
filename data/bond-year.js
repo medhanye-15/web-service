@@ -23,7 +23,7 @@
                 "Composer": "James Newton Howard",
                 "Budget":"$100,000,000",
                 "BoxOffice":"$171.7 Million(United States)",
-                "Image":""              
+                "Image":"blooddiamond.jpg"              
               },
               {
                 "Film":3,
@@ -35,7 +35,7 @@
                 "Composer": "Ludwig Goransson",
                 "Budget":"$200,000,000",
                 "BoxOffice":"$1.348 Billion(United States)",
-                "Image":""   
+                "Image":"blackpanther.jpg"   
               },
               {
                 "Film":4,
@@ -47,7 +47,7 @@
                 "Composer": "James Horner",
                 "Budget":"$40,000,000",
                 "BoxOffice":"$359.1 Million(United States)",
-                "Image":""    
+                "Image":"thekaratekid"    
               },
               {
                 "Film":5,
@@ -59,7 +59,7 @@
                 "Composer": "Brain Tayler",
                 "Budget":"$200,000,000",
                 "BoxOffice":"$1.214 Billion(United States)",
-                "Image":""                   
+                "Image":"ironman3.jpg"                   
               },
               {
                 "Film":6,
@@ -71,7 +71,7 @@
                 "Composer": "Alan Silvestri",
                 "Budget":"$140-216.7 Million",
                 "BoxOffice":"$307.6 Million(United States)",
-                "Image":""   
+                "Image":"capitainamerica.jpg"   
                 
               },
               {
@@ -84,7 +84,7 @@
                 "Composer": "Kris Bowers",
                 "Budget":"$50,000,000",
                 "BoxOffice":"$36.3 Million(United States)",
-                "Image":""   
+                "Image":"kingrichard.jpg"   
               },
               {
                 "Film":8,
@@ -95,7 +95,8 @@
                 "Writers":"VY Vincent Ngo and Vince Gilligan",
                 "Composer":"Jhon Powell",
                 "Budget":"$150,000,000",
-                "Image":"$629.4 Million"
+                "BoxOffice":"$629.4 Million(United States)",
+                "Image":"hancock.jpg"
               },
               {
                 "Film":9,
@@ -107,7 +108,7 @@
                 "Composer": "James Newton Howard",
                 "Budget":"$75,000,000",
                 "BoxOffice":"$248.1 Million(United States)",
-                "Image":""   
+                "Image":"unbreakable.jpg"   
               },
              
               {
@@ -120,7 +121,7 @@
                 "Composer":"Alan Menken",
                 "Budget":"$183,000,000",
                 "BoxOffice":"$1.051 Billion(United States)",
-                "Image":""
+                "Image":"aladdin.jpg"
               }
             ]
 }

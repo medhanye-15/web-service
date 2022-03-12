@@ -81,9 +81,9 @@ cat = $(this).attr("href");  //get category from URL
 </script>
 </head>
 <body>
-<h1>My faviorite movies</h1>
-<a href="year" class="category">My faviorite movies By Year</a><br />
-<a href="box" class="category">My faviorite movies By International Box Office Totals</a>
+<h1>My Top Ten Movies Of All Times</h1>
+<a href="year" class="category">My Top Ten Movies Of All Times</a><br />
+<a href="box" class="category">My Top Ten Movies Of All Times International Box Office Totals</a>
 <h3 id="filmtitle"></h3>
 <div id="films">
 <p>Films will go here</p>
