@@ -39,7 +39,7 @@
               },
               {
                 "Film":4,
-                "Title":"The Carate Kid",
+                "Title":"The Karate Kid",
                 "Year":2010,
                 "Director":"Christopher Murphey",
                 "Producers":"Will Smith and Jada Pinkett Smith and Jerry Weintraub",
